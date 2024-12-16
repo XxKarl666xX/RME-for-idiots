@@ -1,0 +1,83 @@
+﻿  stdafx.cpp
+  Addresses.cpp
+  Aimbot.cpp
+Aimbot.cpp(16): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Aimbot.cpp(17): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Aimbot.cpp(161): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Aimbot.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Aimbot.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+  Arrays.cpp
+  Autowall.cpp
+Autowall.cpp(11): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  Definitions.cpp
+  Detour.cpp
+  Game.cpp
+Game.cpp(445): warning C4244: '=' : conversion from 'FLOAT' to 'DWORD', possible loss of data
+Game.cpp(476): warning C4244: '=' : conversion from 'FLOAT' to 'DWORD', possible loss of data
+Game.cpp(527): warning C4244: 'initializing' : conversion from 'FLOAT' to 'DWORD', possible loss of data
+Game.cpp(1033): warning C4018: '<' : signed/unsigned mismatch
+Game.cpp(1054): warning C4018: '<' : signed/unsigned mismatch
+  Globals.cpp
+  Hooks.cpp
+Hooks.cpp(376): warning C4018: '<' : signed/unsigned mismatch
+  HvPeekPoke.cpp
+  INI_Manager.cpp
+  MemoryManager.cpp
+  Menu.cpp
+Menu.cpp(320): warning C4244: 'initializing' : conversion from 'FLOAT' to 'int', possible loss of data
+Menu.cpp(313): warning C4102: 'jRestart' : unreferenced label
+  Render.cpp
+Render.cpp(103): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  RME.cpp
+RME.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+RME.cpp(779): warning C4309: 'argument' : truncation of constant value
+RME.cpp(780): warning C4309: 'argument' : truncation of constant value
+RME.cpp(781): warning C4309: 'argument' : truncation of constant value
+RME.cpp(782): warning C4309: 'argument' : truncation of constant value
+RME.cpp(783): warning C4309: 'argument' : truncation of constant value
+  Spinbot.cpp
+Spinbot.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+  Structs.cpp
+  Utilities.cpp
+Utilities.cpp(473): warning C4244: '+=' : conversion from 'DWORD' to 'BYTE', possible loss of data
+Utilities.cpp(552): warning C4244: '-=' : conversion from 'DWORD' to 'BYTE', possible loss of data
+  Vector.cpp
+  Visuals.cpp
+Visuals.cpp(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Visuals.cpp(140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(140): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(222): warning C4244: 'argument' : conversion from 'DWORD' to 'float', possible loss of data
+Visuals.cpp(222): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(286): warning C4018: '<' : signed/unsigned mismatch
+Visuals.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+Visuals.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Compiling...
+  Engine.cpp
+Engine.cpp(290): warning C4018: '<' : signed/unsigned mismatch
+Engine.cpp(446): warning C4101: 'dwLink' : unreferenced local variable
+     Creating library C:\Users\Matthew\Documents\Xbox 360\Sunset Engine\Sunset\BO2\Sunset.lib and object C:\Users\Matthew\Documents\Xbox 360\Sunset Engine\Sunset\BO2\Sunset.exp
+  Generating code
+c:\users\matthew\documents\xbox 360\sunset engine\sunset\visuals.cpp(357): warning C4700: uninitialized local variable 'HealthbarLength' used
+  Finished generating code
+IMAGEXEX : warning IM1034: missing export container for system module
+IMAGEXEX : warning IM1040: final image may not run properly

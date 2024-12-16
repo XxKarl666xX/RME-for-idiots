@@ -1,0 +1,71 @@
+﻿Build started 16.12.2024 19:18:24.
+     1>Project "C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\Sunset.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "BO2\Sunset.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /I..\xkelib /Isrc/ /Zi /nologo /W0 /WX- /O2 /Oi /Ot /GL /D NDEBUG /D _XBOX /D LTCG /D BO2 /GF /Gm- /MT /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yc"StdAfx.h" /Fp"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.pch" /Fo"BO2\\" /Fd"BO2\vc100.pdb" /TP stdafx.cpp /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\\include\xbox\xbox_intellisense_platform.h"
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /I..\xkelib /Isrc/ /Zi /nologo /W0 /WX- /O2 /Oi /Ot /GL /D NDEBUG /D _XBOX /D LTCG /D BO2 /GF /Gm- /MT /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yu"StdAfx.h" /Fp"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.pch" /Fo"BO2\\" /Fd"BO2\vc100.pdb" /TP Addresses.cpp Aimbot.cpp Arrays.cpp Autowall.cpp Definitions.cpp Detour.cpp Engine.cpp Game.cpp Globals.cpp Hooks.cpp HvPeekPoke.cpp INI_Manager.cpp MemoryManager.cpp Menu.cpp RME.cpp Render.cpp Spinbot.cpp Structs.cpp Utilities.cpp Vector.cpp Visuals.cpp /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\\include\xbox\xbox_intellisense_platform.h"
+         Addresses.cpp
+         Aimbot.cpp
+         Arrays.cpp
+         Autowall.cpp
+         Definitions.cpp
+         Detour.cpp
+         Engine.cpp
+         Game.cpp
+         Globals.cpp
+         Hooks.cpp
+         HvPeekPoke.cpp
+         INI_Manager.cpp
+         MemoryManager.cpp
+         Menu.cpp
+         RME.cpp
+         Render.cpp
+         Spinbot.cpp
+         Structs.cpp
+         Utilities.cpp
+         Vector.cpp
+         Compiling...
+         Visuals.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\xkelib xapilib.lib d3d9ltcg.lib d3dx9.lib xgraphics.lib xboxkrnl.lib xnet.lib xaudio2.lib xact3ltcg.lib x3daudioltcg.lib xmcoreltcg.lib vcomp.lib xhttp.lib /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2.pdb" /STACK:"393216","393216" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /RELEASE /IMPLIB:"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.lib" BO2\Addresses.obj
+         BO2\Aimbot.obj
+         BO2\Arrays.obj
+         BO2\Autowall.obj
+         BO2\Definitions.obj
+         BO2\Detour.obj
+         BO2\Game.obj
+         BO2\Globals.obj
+         BO2\Hooks.obj
+         BO2\HvPeekPoke.obj
+         BO2\INI_Manager.obj
+         BO2\MemoryManager.obj
+         BO2\Menu.obj
+         BO2\Render.obj
+         BO2\RME.obj
+         BO2\Spinbot.obj
+         BO2\stdafx.obj
+         BO2\Structs.obj
+         BO2\Utilities.obj
+         BO2\Vector.obj
+         BO2\Visuals.obj
+         BO2\Engine.obj /dll /ALIGN:128,4096 /XEX:NO
+            Creating library C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.lib and object C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.exp
+         Generating code
+         Finished generating code
+       ImageXex:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\imagexex.exe /out:"C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset_BO2.xex" /config:"Engine.xml" "C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\BO2\Sunset.exe" 
+         Microsoft(R) Xbox 360 Image File Builder Version 2.0.21256.0
+         (c)2012 Microsoft Corporation. All rights reserved.
+         
+     1>IMAGEXEX : warning IM1034: missing export container for system module
+     1>IMAGEXEX : warning IM1040: final image may not run properly
+       FinalizeBuildStatus:
+         Deleting file "BO2\Sunset.unsuccessfulbuild".
+         Touching "BO2\Sunset.lastbuildstate".
+     1>Done Building Project "C:\Users\Bill\Desktop\xbox 360 RGH\RME Guide for idiots\RME Source (1)\Darling V1.1 working\sunset\Sunset\Sunset.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.61

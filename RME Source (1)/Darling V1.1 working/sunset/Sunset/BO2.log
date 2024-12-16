@@ -1,0 +1,5 @@
+﻿  Hooks.cpp
+Hooks.cpp(134): warning C4101: 'dwLink' : unreferenced local variable
+  Generating code
+c:\users\matthew\desktop\sunset private\bo2\rme.cpp(81): warning C4715: 'Netchan::setup_packet_header' : not all control paths return a value
+  Finished generating code
